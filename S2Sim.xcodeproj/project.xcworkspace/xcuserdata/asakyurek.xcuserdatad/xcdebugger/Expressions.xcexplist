@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ControlManager::SetClient(SmartPointer&lt;ThreadedTCPConnectedClient&gt; const&amp;):ControlManager.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "TerraSwarm::Synchronous::ClientConnectionResponse::GetNewClientConnectionResponse(unsigned short, unsigned short, unsigned int, unsigned int, unsigned short, unsigned short, unsigned int):ClientConnectionResponse.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "ClientManager::ProcessClientConnectionRequest(TerraSwarm::Synchronous::ClientConnectionRequest*):ClientManager.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "MatlabManager::SetClient(SmartPointer&lt;ThreadedTCPConnectedClient&gt; const&amp;):MatlabManager.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "std::this_thread::get_id()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
